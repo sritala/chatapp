@@ -1,4 +1,4 @@
-# Getting Started with Create React App
-### Programming exercise for Distributed systems course 
+## Programming exercise for Distributed systems course 
 
-#### npm start
+#### Run project:
+##### npm start
